@@ -31,6 +31,9 @@ status-website:
     - title: Home
       href: https://hostathing.com
 
+assignees:
+  - dy1io
+
 skipDescriptionUpdate: true
 
 # Upptime also supports notifications, assigning issues, and more
