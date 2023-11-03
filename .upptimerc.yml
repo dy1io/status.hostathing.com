@@ -31,5 +31,7 @@ status-website:
     - title: Home
       href: https://hostathing.com
 
+skipDescriptionUpdate: true
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.hostathing.com): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Dylan](https://dy1.io), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Host A Thing](https://hostathing.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/dy1io/status.hostathing.com/workflows/Uptime%20CI/badge.svg)](https://github.com/dy1io/status.hostathing.com/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/dy1io/status.hostathing.com/workflows/Response%20Time%20CI/badge.svg)](https://github.com/dy1io/status.hostathing.com/actions?query=workflow%3A%22Response+Time+CI%22)
