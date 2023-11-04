@@ -20,7 +20,7 @@
   {
     "name": "Panel",
     "url": "https://panel.hostathing.com",
-    "icon": "https://icons.duckduckgo.com/ip3/panel.hostathing.com.ico",
+    "icon": "https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/pterodactyl.png",
     "slug": "panel",
     "status": "up",
     "uptime": "100.00%",
@@ -38,7 +38,7 @@
   {
     "name": "PanelBot",
     "url": "apex.hostathing.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/discord.png",
     "slug": "panel-bot",
     "status": "up",
     "uptime": "100.00%",
@@ -56,7 +56,7 @@
   {
     "name": "Node: Orion",
     "url": "orion.hostathing.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/node-icon.png",
     "slug": "node-orion",
     "status": "up",
     "uptime": "100.00%",
