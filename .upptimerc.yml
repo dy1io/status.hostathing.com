@@ -26,8 +26,6 @@ status-website:
   introTitle: "**Host A Thing** community game hosting platform."
   introMessage: This status page uses **real-time** data about our services.
   navbar:
-    - title: Status
-      href: /
     - title: Home
       href: https://hostathing.com
 
