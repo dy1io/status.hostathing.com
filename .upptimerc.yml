@@ -7,14 +7,17 @@ sites:
     url: https://hostathing.com
   - name: Panel
     url: https://panel.hostathing.com
+    icon: https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/pterodactyl.png
   - name: PanelBot
     check: "tcp-ping"
     url: apex.hostathing.com
+    icon: https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/discord.png
     port: 50000
   - name: "Node: Orion"
     check: "tcp-ping"
     url: orion.hostathing.com
     port: 8080
+    icon: https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/node-icon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
