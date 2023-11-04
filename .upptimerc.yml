@@ -13,6 +13,11 @@ sites:
     url: apex.hostathing.com
     icon: https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/discord.png
     port: 50000
+  - name: "Node: Apex"
+    check: "tcp-ping"
+    url: apex.hostathing.com
+    port: 8080
+    icon: https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/node-icon.png
   - name: "Node: Orion"
     check: "tcp-ping"
     url: orion.hostathing.com
