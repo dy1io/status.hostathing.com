@@ -76,7 +76,7 @@
     "url": "orion.hostathing.com",
     "icon": "https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/node-icon.png",
     "slug": "node-orion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
@@ -88,6 +88,7 @@
     "timeMonth": 356,
     "timeYear": 257,
     "dailyMinutesDown": {
+      "2024-01-02": 0,
       "2023-12-26": 21,
       "2023-12-11": 10,
       "2023-12-05": 16,
