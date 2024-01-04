@@ -1,7 +1,7 @@
 url: orion.hostathing.com
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2024-01-04T12:11:18.425Z
+lastUpdated: 2024-01-04T12:39:30.155Z
 startTime: 2023-11-03T16:45:51.815Z
 generator: Upptime <https://github.com/upptime/upptime>
