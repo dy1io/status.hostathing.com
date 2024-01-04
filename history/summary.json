@@ -76,7 +76,7 @@
     "url": "orion.hostathing.com",
     "icon": "https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/node-icon.png",
     "slug": "node-orion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "98.05%",
     "uptimeWeek": "99.65%",
