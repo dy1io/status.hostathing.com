@@ -22,11 +22,11 @@
     "url": "https://panel.hostathing.com",
     "icon": "https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/pterodactyl.png",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 381,
     "timeDay": 516,
@@ -34,6 +34,7 @@
     "timeMonth": 390,
     "timeYear": 381,
     "dailyMinutesDown": {
+      "2024-01-27": 0,
       "2024-01-10": 6
     }
   },
@@ -42,9 +43,9 @@
     "url": "apex.hostathing.com",
     "icon": "https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/discord.png",
     "slug": "panel-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +54,18 @@
     "timeWeek": 80,
     "timeMonth": 66,
     "timeYear": 64,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-27": 0
+    }
   },
   {
     "name": "Node: Apex",
     "url": "apex.hostathing.com",
     "icon": "https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/node-icon.png",
     "slug": "node-apex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +74,9 @@
     "timeWeek": 71,
     "timeMonth": 58,
     "timeYear": 54,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-27": 0
+    }
   },
   {
     "name": "Node: Orion",
