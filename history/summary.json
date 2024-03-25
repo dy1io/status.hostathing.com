@@ -65,9 +65,9 @@
     "url": "apex.hostathing.com",
     "icon": "https://raw.githubusercontent.com/dy1io/status.hostathing.com/master/assets/node-icon.png",
     "slug": "node-apex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
@@ -77,6 +77,7 @@
     "timeMonth": 59,
     "timeYear": 56,
     "dailyMinutesDown": {
+      "2024-03-25": 0,
       "2024-03-11": 14,
       "2024-02-03": 10,
       "2024-01-27": 10
